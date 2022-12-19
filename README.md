@@ -1,4 +1,4 @@
-[![Header](https://github.com/Blism-Official/Blism-Official/blob/main/assets/header.png)](https:blism.ru/)
+[![Header](https://github.com/Blism-Official/Blism-Official/blob/main/assets/header.png)](https://blism.ru/)
 
 ### Мы в соц. сетях:
 [![Vkontakte](https://img.shields.io/badge/-ВК-090909?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/blism_official)
