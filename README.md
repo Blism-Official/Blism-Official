@@ -7,7 +7,7 @@
 [![Reddit](https://img.shields.io/badge/-Reddit-090909?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/Blism_Official)
 [![Medium](https://img.shields.io/badge/-Medium-090909?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@Blism_Official/)
 [![Disocrd](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=5869EB)](https://discord.gg/cx9db7ubYu)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedind&logoColor=0C64C5)](https://linkedin.com/company/blism-official)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedind&logoColor=0C64C5)](https://linkedin.com/company/blism-official)
 
 
 
